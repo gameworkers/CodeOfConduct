@@ -98,11 +98,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Licence
 
-This Code of Conduct is based on the Code of Conduct for the Stumptown Syndicate. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is distributed under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) license. 
+This Code of Conduct is based on the Code of Conduct for the Stumptown Syndicate. The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is distributed under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) license (a copy can be found in this repository [here](LICENSE.md)).
 
 You are free to:
 
-- Share — copy and redistribute the material in any medium or format 
+- Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 - The licensor cannot revoke these freedoms as long as you follow the license terms.
 
