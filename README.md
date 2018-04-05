@@ -124,13 +124,13 @@ A lack of voice or representation in media
 
 ### Classism
 
-	“Classism is differential treatment based on social class or perceived social class. Classism is held in place by a system of beliefs and cultural attitudes that ranks people according to economic status, family lineage, job status, level of education, and other divisions. Middle-class and owning- or ruling-class people (dominant group members) are seen as smarter and more articulate than working-class and poor people (subordinated groups). In this way, dominant group members (middle-class and wealthy people) define for everyone else what is “normal” or “acceptable” in the class hierarchy.”
+*“Classism is differential treatment based on social class or perceived social class. Classism is held in place by a system of beliefs and cultural attitudes that ranks people according to economic status, family lineage, job status, level of education, and other divisions. Middle-class and owning- or ruling-class people (dominant group members) are seen as smarter and more articulate than working-class and poor people (subordinated groups). In this way, dominant group members (middle-class and wealthy people) define for everyone else what is “normal” or “acceptable” in the class hierarchy.”*
 
 source: [http://www.classism.org/about-class/what-is-classism/](http://www.classism.org/about-class/what-is-classism/))
 
 ### Ableism
 
-	“Ableism is discrimination against people with disabilities, including the expression of hate for people with disabilities, denial of accessibility, rejection of disabled applicants for housing and jobs, institutionalised discrimination in the form of benefits systems designed to keep people with disabilities in poverty, etc.”
+*“Ableism is discrimination against people with disabilities, including the expression of hate for people with disabilities, denial of accessibility, rejection of disabled applicants for housing and jobs, institutionalised discrimination in the form of benefits systems designed to keep people with disabilities in poverty, etc.”*
 
 source:  [http://disabledfeminists.com/2010/11/19/what-is-ableism-five-things-about-ableism-you-should-know/](http://disabledfeminists.com/2010/11/19/what-is-ableism-five-things-about-ableism-you-should-know/)
 
