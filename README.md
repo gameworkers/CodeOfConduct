@@ -34,10 +34,10 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviors are expected and requested of all community members:
 
-- In general, try to assume good faith and exercise consideration and respect in your speech and actions. Note that when talking about specific oppressions, people on the opposite side of a power dynamic might have different interests, and this should also be taken into account when determining good faith.For example, an employer should not automatically be assumed to be acting in good faith when discussing unions with workers, since their interests are opposed to those of the workers on this issue.
+- In general, try to assume good faith and exercise consideration and respect in your speech and actions. Note that when talking about specific oppressions, people on the opposite side of a power dynamic might have different interests, and this should also be taken into account when determining good faith. For example, an employer should not automatically be assumed to be acting in good faith when discussing unions with workers, since their interests are opposed to those of the workers on this issue.
 - In general, attempt collaboration before conflict. However keep in mind that conflict is sometimes necessary, particularly when groups have opposing interests. Refer to the safety and mediation committee if necessary.
 - Refrain from tone policing, silencing, or otherwise sanctioning marginalized people who defend themselves against or call out oppressive behaviour.
-- Try to treat criticism and call outs as gifts, rather than personal attacks.They may hurt, but they’re also a necessary part of learning to work together. If you’re feeling defensive or are unsure how to react, try this helpful guide created by Dietrich Squinkifer: [http://games.squinky.me/calledout/](http://games.squinky.me/calledout/)
+- Try to treat criticism and call outs as gifts, rather than personal attacks. They may hurt, but they’re also a necessary part of learning to work together. If you’re feeling defensive or are unsure how to react, try this helpful guide created by Dietrich Squinkifer: [http://games.squinky.me/calledout/](http://games.squinky.me/calledout/)
 - Respect people's gender pronouns and ask if you don't know which pronouns a person uses.
 	- if you are unfamiliar with the various pronouns in use in the english language, checkout pronoun island at [http://pronoun.is](http://pronoun.is)
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
