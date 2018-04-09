@@ -1,18 +1,3 @@
-	<TEMP>
-		other CODs too read throu (@Maris should do this :P )
-		
-		- https://dev.to/code-of-conduct
-		- https://gaymerx.com/rules/
-		- https://docs.google.com/document/d/1dYDsWyBaIDJ0SVJzhbi7gezWRW5GRNV0v4o-5CYhVJ4/edit
-		
-		also deal with internal structure
-		- internal mediation procedures
-		- communication about tasks and responsibilities
-		- constructive criticism culture
-	</TEMP>
-
-***
-
 # Code Of Conduct
 
 ## Purpose
