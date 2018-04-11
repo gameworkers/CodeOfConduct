@@ -70,8 +70,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 gameworkersunite@gmail.com 
 
 If you are on the Discord server, you can also message the moderators:
-@Maris
-@seekayeffjay
+- @Maris
+- @seekayeffjay
+- @EmmaKinema
 
 ## Licence
 
