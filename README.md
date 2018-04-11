@@ -7,14 +7,6 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in GWU activities to help us create safe and positive experiences for everyone.
 
-## Culture Citizenship
-
-A supplemental goal of this Code of Conduct is to increase culture citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, please recognize their efforts.
-
 ## Expected Behaviour
 
 The following behaviors are expected and requested of all community members:
@@ -61,15 +53,11 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, we may take any action deemed appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## Reporting Guidelines
+## Reporting
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing [INSERT EMAIL HERE]. Please read Reporting Guidelines [INSER LINK HERE] for details.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing gameworkersunite@gmail.com. 
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
-## Addressing Grievances
-
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the **security committee** at [INSERT EMAIL HERE].  with your appeal and the Syndicate board will review the case.
 
 ## Scope
 
@@ -79,7 +67,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact Information
 
-[INSERT EMAIL HERE] alt / @Maris on the discord channel
+gameworkersunite@gmail.com 
+
+If you are on the Discord server, you can also message the moderators:
+@Maris
+@seekayeffjay
 
 ## Licence
 
