@@ -20,6 +20,10 @@ The following behaviors are expected and requested of all community members:
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
 - Be mindful of your surroundings and of your fellow participants. Alert committee members if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Practice good consent culture. Ask if you can engage with people and NEVER touch someone without their given consent.
+	- When asking for consent, aside form verbal consent also take into account peoples body language (leaning away, crossed arms).
+	- Be aware of power dynamics and take them into account when dealing with consent. Examples include: social status, hiring capacity and priviledge (race, gender, middle class, english speaking)
+	- If someone gives you a "No", treat is as a gift that this person can share their authentic boundries with you.
 
 ## Unacceptable Behaviour
 
@@ -39,12 +43,6 @@ The following behaviors are considered harassment and are unacceptable within ou
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events including rallies, meetups, talks and presentations.
 
-## Weapons Policy
-
-No weapons will be allowed at GWU events or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.
-
-Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws on this matter.
-
 ## Consequences For Unacceptable Behaviour
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
@@ -55,7 +53,7 @@ If a community member engages in unacceptable behavior, we may take any action d
 
 ## Reporting
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing gameworkersunite@gmail.com. 
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing gameworkersunite@gmail.com
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -67,7 +65,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact Information
 
-gameworkersunite@gmail.com 
+You can reach us at: gameworkersunite@gmail.com 
 
 If you are on the Discord server, you can also message the moderators:
 - @Maris
