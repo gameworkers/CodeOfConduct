@@ -84,7 +84,7 @@ You are free to:
 
 ## Definitions
 
-This section is intended to help explain some of the terms used above. If you have suggestions for words you would like to see added to this list, please get in touch by emailing: [INSERT EMAIL HERE]
+This section is intended to help explain some of the terms used above. If you have suggestions for words you would like to see added to this list, please get in touch by emailing: gameworkersunite@gmail.com
 
 ### Marginalization
 
