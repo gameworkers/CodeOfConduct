@@ -23,7 +23,7 @@ The following behaviors are expected and requested of all community members:
 - Practice good consent culture. Ask if you can engage with people and NEVER touch someone without their given consent.
 	- When asking for consent, aside from verbal consent also take into account peoples body language (leaning away, crossed arms).
 	- Be aware of power dynamics and take them into account when dealing with consent. Examples include: social status, hiring capacity and priviledge (race, gender, middle class, english speaking)
-	- If someone gives you a "No", treat is as a gift that this person can share their authentic boundries with you.
+	- If someone gives you a "No", treat it as a gift that this person can share their authentic boundries with you.
 
 ## Unacceptable Behaviour
 
