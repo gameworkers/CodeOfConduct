@@ -21,9 +21,9 @@ The following behaviors are expected and requested of all community members:
 - Be mindful of your surroundings and of your fellow participants. Alert committee members if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 - Practice good consent culture. Ask if you can engage with people and NEVER touch someone without their given consent.
-	- When asking for consent, aside form verbal consent also take into account peoples body language (leaning away, crossed arms).
+	- When asking for consent, aside from verbal consent also take into account peoples body language (leaning away, crossed arms).
 	- Be aware of power dynamics and take them into account when dealing with consent. Examples include: social status, hiring capacity and priviledge (race, gender, middle class, english speaking)
-	- If someone gives you a "No", treat is as a gift that this person can share their authentic boundries with you.
+	- If someone gives you a "No", treat it as a gift that this person can share their authentic boundries with you.
 
 ## Unacceptable Behaviour
 
@@ -101,7 +101,7 @@ When groups are pushed to the “margins” of a particular society and thus do 
 
 *“Classism is differential treatment based on social class or perceived social class. Classism is held in place by a system of beliefs and cultural attitudes that ranks people according to economic status, family lineage, job status, level of education, and other divisions. Middle-class and owning- or ruling-class people (dominant group members) are seen as smarter and more articulate than working-class and poor people (subordinated groups). In this way, dominant group members (middle-class and wealthy people) define for everyone else what is “normal” or “acceptable” in the class hierarchy.”*
 
-source: [http://www.classism.org/about-class/what-is-classism/](http://www.classism.org/about-class/what-is-classism/))
+source: [http://www.classism.org/about-class/what-is-classism/](http://www.classism.org/about-class/what-is-classism/)
 
 ### Ableism
 
